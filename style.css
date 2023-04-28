@@ -262,6 +262,10 @@ nav div a:hover{
     border-radius: .7em;
 }
 
+.Testimony h1{
+    font-family: 'Space Mono', monospace;
+}
+
 .d-c{
     color: #2675ec;
     font-size: 25px;
